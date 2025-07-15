@@ -1,0 +1,6 @@
+Run pm2 stop app || true
+Run pm2 start app.js --name "node-app"
+[PM2] Starting app.js in fork_mode (1 instance)
+[PM2] Done.
+Run pm2 save
+[PM2] Dumped processes to /home/user/.pm2/dump.pm2

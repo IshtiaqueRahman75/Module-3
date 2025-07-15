@@ -1,0 +1,9 @@
+Run cat test-results.txt
+> node-app@1.0.0 test
+> jest
+
+PASS  ./app.test.js
+✓ Test case description (5ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
